@@ -9,7 +9,7 @@
 		<version>2.6.0-SNAPSHOT</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.zeta.tech.automation</groupId>
+	<groupId>com.ram.tech.automation</groupId>
 	<artifactId>sprint-test-automation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sprint-test-automation</name>
