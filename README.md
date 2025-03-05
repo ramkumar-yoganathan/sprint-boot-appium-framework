@@ -1,4 +1,4 @@
-# Simple Mobile Test Automation Framework Using Sprint Boot 
+# Simple Mobile Test Automation Framework Using Spring Boot 
 
 An java based spring boot test automation engine which provides automate and play back capabilities for android and ios
 
